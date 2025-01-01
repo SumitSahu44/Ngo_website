@@ -137,7 +137,7 @@
 </body>
 </html>
 <?php
-
+// if your submit then this below cod execute 
   if(isset($_POST['submit'])) 
   {
       include 'connection.php';
