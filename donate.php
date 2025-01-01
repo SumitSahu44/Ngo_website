@@ -24,6 +24,7 @@
 	   	    <input type="number" name="amount" class="input" required=""><br>
 	   	    <button name="submit"class="submit_btn">Continue</button>
 <?php 
+   // if usr click on submit then below code execute 
  
 				  if(isset($_POST['submit']))
 				  {
