@@ -98,6 +98,8 @@
     		</div>
     	</div>  
     </main> 
+
+<!-- 	footer code  -->
     	<footer>
     	 <div class="footer" id="contact">
 	    	 	 <div>
