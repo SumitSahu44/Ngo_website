@@ -38,7 +38,7 @@
 
    </header>
 
-	about us section
+<!-- 	about us section -->
     <main >
     	<div class="about_background" id="about">
     		<h2 class="heading">about us</h2>
