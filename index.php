@@ -57,7 +57,7 @@
 				    </p>
          </div>
     	</div>
-
+<!--   gallery cod e -->
     	<div class="trust" id="trust">
     		<h2 class="heading">Trust Gallery</h2>
     		<div class="gallery_container">
