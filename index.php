@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Ashoka Ngo -- Sumit</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="index.css?v=<?php echo time(); ?>">
+	<link rel="stylesheet" type="text/css" href="index.css?v=<?php echo time(); ?>">  <!--css file -->
 	 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css?v=<?php echo time(); ?>">
 	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
