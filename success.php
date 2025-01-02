@@ -37,6 +37,7 @@
 <body>
 <!-- thanku for donation page  -->
 <div class="succ">
+<!-- 	success page  -->
 	<img src="success_img.png">
 	<h1 class="thank">Thank you! your information has succesfully submit. Our team Contact you</h1>
 	<form action="index.php" method="POST">
