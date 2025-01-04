@@ -12,7 +12,7 @@
 <body class="donate_body">
 	<div class="form_div">
 		<h1 class="donate_heading">Donation Form</h1>
-
+<!-- form code  -->
 	   <form action=""  method="POST" class="form">
 	   	 <label>Name</label><br>
 	   	   <input type="Name" name="name" class="input" required=""><br>
