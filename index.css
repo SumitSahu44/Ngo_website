@@ -7,7 +7,7 @@
 
 }
 body{
-	font-family: montserrat;
+	font-family: montserrat; /*font montserrat for all bosy*/
 }
 .background{
 	background: url(background_img.jpg);
@@ -130,7 +130,7 @@ navigation responsive
 	margin-left: 30px;
 }
 .about_background{
- background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(about-us.jpg);
+ background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(about-us.jpg); 
 	height: 750px;
 	background-position: center;
 	background-size: cover;
