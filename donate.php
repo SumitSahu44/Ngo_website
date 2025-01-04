@@ -33,7 +33,7 @@
 					  	$number=$_POST['number'];
 					   	$email=$_POST['email'];
 					  	$amount=$_POST['amount'];
-
+                                                     // insert data into donation table 
 					  	$query1="INSERT INTO `donation_table`(`name`, `phone`, `email`, `amount`) VALUES ('$name','$number','$email','$amount')";
 					  	$check=mysqli_query($con,$query1);
 					  	if($check)
