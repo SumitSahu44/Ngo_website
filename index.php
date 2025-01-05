@@ -11,7 +11,7 @@
 <body>
   <!--   ---Nav Bar ---  -->
    <header class="background" id="home">
-   	 <nav><!--   create a navbar   -->
+   	 <nav><!--    navbar start  -->
    	 	<input type="checkbox" id="check">
    	 	<label for="check" class="checkbtn">
    	 		<i class="fas fa-bars"></i>
