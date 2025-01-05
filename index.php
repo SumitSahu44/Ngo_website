@@ -134,6 +134,7 @@
 	    	 	 </div>
     	 	 
     	 </div>	
+<!-- 		footer 2  -->
      <div class="developer">
      	 Created by <a href="https://www.instagram.com/sumit_sahu_444/" target="_blank" class="name">  <i class="fab fa-instagram" aria-hidden="true" style="color: white; margin-right: 4px;" ></i>Mr. Sumit Sahu </a> for AnsrCoach Internship Program
      </div>
