@@ -122,6 +122,7 @@
 	    	 	 </div>
 	    	 	 <div class="contact_form">
 	    	 	 	<h2 id="contact">Connect with us</h2>
+<!-- 				 contact us form  -->
 	    	 	 	  <form  method="POST">
 		   	         <label>Name</label><br>
 		   	   					<input type="Name" name="name" class="contact_in" required=""><br>
