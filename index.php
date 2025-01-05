@@ -101,7 +101,7 @@
     	</div>  
     </main> 
 
-<!-- 	footer code  -->
+<!-- 	footer 1 code  -->
     	<footer>
     	 <div class="footer" id="contact">
 	    	 	 <div>
