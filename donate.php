@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Donate</title>
+	<title>Donate Us</title>
 	<link rel="stylesheet" type="text/css" href="index.css?v=<?php echo time(); ?>">
 </head>
 <body class="donate_body">
