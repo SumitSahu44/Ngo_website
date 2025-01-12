@@ -71,7 +71,7 @@
     	</div>
 
 
-<!-- 	    donation code -->
+<!-- 	    donation section code -->
     	<div>
     		<div id="donate">
     				<h2 class="heading heading_bg">Why Donate Us</h2>
