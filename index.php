@@ -9,7 +9,7 @@
 	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 <body>
-  <!--   ---Nav Bar ---  -->
+  <!--   ---Nav Bar code ---  -->
    <header class="background" id="home">
    	 <nav><!--    navbar code start  -->
    	 	<input type="checkbox" id="check">
