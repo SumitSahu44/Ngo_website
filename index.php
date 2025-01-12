@@ -144,7 +144,7 @@
 </body>
 </html>
 <?php
-// if your submit then this below cod execute 
+// if user submit then this below code execute 
   if(isset($_POST['submit'])) 
   {
       include 'connection.php';
