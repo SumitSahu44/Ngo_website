@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Success - Submit </title>
+	<title>Success - Sumit </title>
 	<style type="text/css">
 	.succ{
 
