@@ -8,6 +8,6 @@ $dbname = "ngodb";
  $con= mysqli_connect($servername,$username,$password,$dbname);
   if(!$con)
   {
-    echo "connection faild";
+    echo "connection not established";
   }
 ?>
