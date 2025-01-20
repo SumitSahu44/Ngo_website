@@ -30,7 +30,7 @@
 			background: lightgreen;
 			border-radius: 5px;
 			font-size: 18px;
-}
+        }
 
 	</style>
 </head>
