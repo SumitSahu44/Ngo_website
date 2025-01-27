@@ -41,7 +41,7 @@
 	<img src="success_img.png">
 	<h1 class="thank">Thank you! your information has succesfully submit. Our team Contact you</h1>
 	<form action="index.php" method="POST">
-		<input type="submit" name="submit" class="submit" value="Click here for home page ">
+		<input type="submit" name="submit" class="submit" value="Home page ">
 	</form>
 </div>
 
