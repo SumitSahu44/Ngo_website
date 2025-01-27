@@ -5,6 +5,7 @@ $username = "root";
 $password = "";
 $dbname = "ngodb";
 
+// connectivity 
  $con= mysqli_connect($servername,$username,$password,$dbname);
   if(!$con)
   {
