@@ -350,6 +350,7 @@ hr{
 	font-size: 24px;
 	margin-bottom: 100px;
 }
+/* for responsive website */
 @media (max-width: 1500px)
 {
 	.gallery_img{
