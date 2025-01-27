@@ -264,6 +264,7 @@ label{
 	font-size: 18px;
 
 }
+/* after is use for showing object after a element */
 .form label::after{
 	content: '*';
 	color: red;
