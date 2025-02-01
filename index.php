@@ -21,6 +21,7 @@
    	 			<li><a href="#home" class="active">Home</a></li>
    	 			<li><a href="#about">About Us</a></li>
    	 			<li><a href="#donate">Why Donate us</a></li>
+				<li><a href="#FAQ"> FAQ</a></li>
    	 			<li><a href="#contact">Contact</a></li>
    	 			
    	 		</ul>
