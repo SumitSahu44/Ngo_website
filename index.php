@@ -153,6 +153,8 @@
   	$number=$_POST['number']; // number
   	$email=$_POST['email']; // email
 
+
+	  // insertion code
   	$query= "INSERT INTO `contact_table`( `name`, `phone`, `email`) VALUES ('$name','$number','$email')";
   	$check=mysqli_query($con,$query);
      if($check)
