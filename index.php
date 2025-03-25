@@ -149,7 +149,7 @@
   if(isset($_POST['submit'])) 
   {
       include 'connection.php';
-  	$name=$_POST['name'];
+  	$name=$_POST['name']; // get name
   	$number=$_POST['number'];
   	$email=$_POST['email'];
 
