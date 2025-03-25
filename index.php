@@ -151,7 +151,7 @@
       include 'connection.php';
   	$name=$_POST['name']; // get name
   	$number=$_POST['number']; // number
-  	$email=$_POST['email'];
+  	$email=$_POST['email']; // email
 
   	$query= "INSERT INTO `contact_table`( `name`, `phone`, `email`) VALUES ('$name','$number','$email')";
   	$check=mysqli_query($con,$query);
