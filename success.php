@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Success - Ashoka</title>
+	<title>Success - Ashoka NGO</title>
 	<style type="text/css">
 	.succ{
 
