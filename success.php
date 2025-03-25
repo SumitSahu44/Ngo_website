@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Success - Sumit </title>
+	<title>Success - Ashoka</title>
 	<style type="text/css">
 	.succ{
 
