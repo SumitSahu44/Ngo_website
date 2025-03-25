@@ -150,7 +150,7 @@
   {
       include 'connection.php';
   	$name=$_POST['name']; // get name
-  	$number=$_POST['number'];
+  	$number=$_POST['number']; // number
   	$email=$_POST['email'];
 
   	$query= "INSERT INTO `contact_table`( `name`, `phone`, `email`) VALUES ('$name','$number','$email')";
