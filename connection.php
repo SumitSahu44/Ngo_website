@@ -2,7 +2,7 @@
 // code for changes 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "sumit####101";
 $dbname = "ngodb";
 
 // connectivity 
