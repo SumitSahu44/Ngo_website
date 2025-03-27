@@ -1,5 +1,6 @@
 <?php
  session_start(); // start session 
+include 'connection.php';
 ?>
 
 <!DOCTYPE html>
