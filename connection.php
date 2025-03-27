@@ -10,5 +10,6 @@ $dbname = "ngodb";
   if(!$con)
   {
     echo "connection not established";
-  }
+  }else
+   echi "connection established"
 ?>
